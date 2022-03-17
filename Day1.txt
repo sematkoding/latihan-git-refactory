@@ -2,3 +2,5 @@ Nama: Muhammad Fadzrin Madu
 Stack: Fullstack
 Bahasa Pemrograman: Javascript
 Framework: React.js dan Express.js
+Project:
+- Sistem Informasi Absensi Berbasis Fingerprint dan WA Gateway
