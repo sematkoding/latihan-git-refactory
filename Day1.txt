@@ -1,0 +1,4 @@
+Nama: Muhammad Fadzrin Madu
+Stack: Fullstack
+Bahasa Pemrograman: Javascript
+Framework: React.js dan Express.js
