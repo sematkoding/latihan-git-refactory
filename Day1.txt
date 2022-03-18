@@ -4,4 +4,4 @@ Bahasa Pemrograman: Javascript
 Framework: React.js dan Express.js
 Project:
 - Sistem Informasi Absensi Berbasis Fingerprint dan WA Gateway
-- Sistem Informasi untuk Klasifikasi Daging Ayam dan Daging Sapi
+- Sistem Informasi untuk Klasifikasi Daging Kelinci dan Daging Sapi
