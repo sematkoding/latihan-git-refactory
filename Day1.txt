@@ -1,7 +1,6 @@
 Nama: Muhammad Fadzrin Madu
 Stack: Fullstack
 Bahasa Pemrograman: Javascript
-Framework: React.js, Next.js dan Express.js
+Framework: React.js dan Express.js
 Project:
 - Sistem Informasi Absensi Berbasis Fingerprint dan WA Gateway
-- Klasifikasi Daging Ayam dan Daging Sapi Menggunakan Pseudo KNN
